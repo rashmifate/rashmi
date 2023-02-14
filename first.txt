@@ -2,5 +2,10 @@ Hello GIT
 Today's date is 10th feb. 
 this is my 3rd lecture of git
 13 feb
+<<<<<<< HEAD
 
 14 febgit
+=======
+14 feb change 
+merge 
+>>>>>>> c8b398123b256ec2fce0894595be66da6b31465a
